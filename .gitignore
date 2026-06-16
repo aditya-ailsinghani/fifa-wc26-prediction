@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Mac system files
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files (optional - remove if you want pkl on GitHub)
+# outputs/*.pkl
