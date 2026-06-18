@@ -31,6 +31,8 @@ bracket 10,000 times to produce win probabilities for all 48 teams.
 | XGBoost | Match outcome classifier trained on 7,888 matches (2018–2026) | Win / Draw / Loss probabilities |
 | Monte Carlo | Simulate full 48-team bracket 10,000 times | Championship probability per team |
 
+![Pipeline](assets/pipeline.png)
+
 ---
 
 ## The Prediction
